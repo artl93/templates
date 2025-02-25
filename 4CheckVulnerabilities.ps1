@@ -2,7 +2,7 @@
 
 [CmdletBinding()]
 param(
-    [string]$DirectoryFilter = "angular"
+    [string]$DirectoryFilter = ""
 )
 
 # Global results array.
