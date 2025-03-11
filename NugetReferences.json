@@ -1,0 +1,137 @@
+[
+  {
+    "Project": "aspire",
+    "Package": "Aspire.Hosting.AppHost",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-apphost",
+    "Package": "Aspire.Hosting.AppHost",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-mstest",
+    "Package": "Aspire.Hosting.Testing",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-mstest",
+    "Package": "MSTest",
+    "Version": "3.6.1"
+  },
+  {
+    "Project": "aspire-mstest",
+    "Package": null,
+    "Version": null
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "Aspire.Hosting.Testing",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "coverlet.collector",
+    "Version": "6.0.2"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "Microsoft.NET.Test.Sdk",
+    "Version": "17.10.0"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "NUnit",
+    "Version": "4.2.2"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "NUnit.Analyzers",
+    "Version": "4.3.0"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": "NUnit3TestAdapter",
+    "Version": "4.6.0"
+  },
+  {
+    "Project": "aspire-nunit",
+    "Package": null,
+    "Version": null
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "Microsoft.Extensions.Http.Resilience",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "Microsoft.Extensions.ServiceDiscovery",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
+    "Version": "1.9.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "OpenTelemetry.Extensions.Hosting",
+    "Version": "1.9.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "OpenTelemetry.Instrumentation.AspNetCore",
+    "Version": "1.9.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "OpenTelemetry.Instrumentation.Http",
+    "Version": "1.9.0"
+  },
+  {
+    "Project": "aspire-servicedefaults",
+    "Package": "OpenTelemetry.Instrumentation.Runtime",
+    "Version": "1.9.0"
+  },
+  {
+    "Project": "aspire-starter",
+    "Package": null,
+    "Version": null
+  },
+  {
+    "Project": "aspire-starter",
+    "Package": "Microsoft.AspNetCore.OpenApi",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": "Aspire.Hosting.Testing",
+    "Version": "9.0.0"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": "coverlet.collector",
+    "Version": "6.0.2"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": "Microsoft.NET.Test.Sdk",
+    "Version": "17.10.0"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": "xunit",
+    "Version": "2.9.2"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": "xunit.runner.visualstudio",
+    "Version": "2.8.2"
+  },
+  {
+    "Project": "aspire-xunit",
+    "Package": null,
+    "Version": null
+  }
+]
